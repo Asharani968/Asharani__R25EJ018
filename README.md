@@ -4,3 +4,7 @@ My name is Asharani Karnal. I am a B.Tech Computer Science and Engineering stude
 Learning C and C++ programming
 Interested in software development and technology
 Goal: build projects and contribute to open source
+
+## Projects
+
+I plan to build a Student Academic Management System using C++ and develop practical software projects to strengthen my programming skills.
